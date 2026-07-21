@@ -2,7 +2,7 @@
 
 # Calulator designing (console application)
 
-# Learning 
+# Concepts
 
 -basic of C
 -functions 
